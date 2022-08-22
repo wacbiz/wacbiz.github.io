@@ -15,7 +15,7 @@ function App() {
 
         {/* Contact Us */}
         <div>
-          <p className="text-lg text-stone-50">Share you excitement with us.</p>
+          <p className="text-lg text-stone-50">Share your excitement with us.</p>
           <a href="mailto:wacbiz@gmail.com" className="text-lg text-stone-50 underline">wacbiz@gmail.com →</a>
         </div>
       </div>
